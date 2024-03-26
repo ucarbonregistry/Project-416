@@ -33,6 +33,23 @@ other UN developed SDGs.
 _________________________
 PRIOR CDM HISTORY
 
+Status of CDM Crediting Period Expired
+
+1 CDM project link for 7.5 MW project: https://cdm.unfccc.int/Projects/DB/TUEV-SUED1142619739.4/view
+
+2 CDM project link for 20 MW project: https://cdm.unfccc.int/Projects/DB/BVQI1173177798.18/view
+____________________________________
+
+First UCR Issuance Period: 08 years, 02 months – 01/10/2015 to 31/12/2023
+
+After expiry of the crediting period under CDM, both projects have not been registered under any
+other carbon abetment programme. As the crediting period of the 7.5 MW project had expired on
+30/09/2015, the project would only clam credit under UCR after 30/09/2015. Hence, the crediting
+period of the project activity under UCR would start from 01/10/2015. However, as the crediting
+period of 20 MW project had expired on 17/05/2017, the credit would only be accounted on and after
+18/05/2017. As the start date of crediting period of the 1st project started before the 2nd project, start
+date of crediting of the 1st project would be considered as the start date of the entire project activity.
+_______________________
 Project 0332 : Ajbapur Sugar Complex Cogeneration Project
 
 Authorized Participants: M/s DCM Shriram Ltd.
