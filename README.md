@@ -102,11 +102,91 @@ CERs requested from 01 Jan 2013 until 31 December 2020: 21547
 Serial Range: Block start: IN-5-211080799-2-2-0-332      Block end: IN-5-211102345-2-2-0-332
 _____________________
 Monitoring report: 01 Apr 2014 - 30 Sep 2015 
+
 Issuance request state: Issued
 
 CERs requested from 01 Jan 2013 until 31 December 2020: 19768
 
 Serial Range: Block start: IN-5-220041145-2-2-0-332      Block end: IN-5-220060912-2-2-0-332
 _______________________
+Project 0982 : DSCL Sugar Ajbapur Cogeneration Project Phase II
+________________
+Authorized Participants: M/s DCM Shriram Limited
+_________________
+Registration Date	18 May 07  
+
+Crediting Period	18 May 07 - 17 May 17 (Fixed)
+
+_________________
+Monitoring report: 18 May 2007 - 30 Nov 2007 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 18163
+
+Serial Range: Block start: IN-5-123581612-1-1-0-982      Block end: IN-5-123599774-1-1-0-982
+__________________
+Monitoring report: 01 Dec 2007 - 31 Mar 2010 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 96413
+
+Serial Range: Block start: IN-5-138015260-1-1-0-982      Block end: IN-5-138111672-1-1-0-982
+________________________
+Monitoring report: 01 Apr 2010 - 31 Mar 2012 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 94745
+
+Serial Range: Block start: IN-5-165766427-1-1-0-982      Block end: IN-5-165861171-1-1-0-982
+____________________
+Monitoring report: 01 Apr 2012 - 31 Mar 2013
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 38543
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 32913
+
+Serial Range: Block start: IN-5-196042939-1-1-0-982      Block end: IN-5-196081481-1-1-0-982
+
+Serial Range: Block start: IN-5-196081482-2-2-0-982      Block end: IN-5-196114394-2-2-0-982
+_________________________
+
+Monitoring report: 01 Apr 2013 - 31 Mar 2014 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 61257
+
+Serial Range: Block start: IN-5-210875301-2-2-0-982      Block end: IN-5-210936557-2-2-0-982
+_________________________
+Monitoring report: 01 Apr 2014 - 30 Apr 2015 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 55794
+
+Serial Range: Block start: IN-5-218924607-2-2-0-982      Block end: IN-5-218980400-2-2-0-982
+________________________
+
+Monitoring report: 01 May 2015 - 30 Apr 2016 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 40265
+
+Serial Range: Block start: IN-5-223874656-2-2-0-982      Block end: IN-5-223914920-2-2-0-982
+_______________
+Monitoring report: 01 May 2016 - 17 May 2017 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 44353
+
+Serial Range: Block start: IN-5-243439678-2-2-0-982      Block end: IN-5-243484030-2-2-0-982
+____________________________
 
 
