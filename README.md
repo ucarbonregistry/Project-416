@@ -31,3 +31,82 @@ The project activity reduces GHG emissions which is correlated with United Natio
 Development Goals (SDG) 13 (Climate action). Beside this the project activity addresses multiple
 other UN developed SDGs. 
 _________________________
+PRIOR CDM HISTORY
+
+Project 0332 : Ajbapur Sugar Complex Cogeneration Project
+
+Authorized Participants: M/s DCM Shriram Ltd.
+
+CDM Registration Date	01 May 06   
+
+Crediting Period	01 Oct 05 - 30 Sep 15 (Fixed)
+____________________
+Monitoring report: 01 Oct 2005 - 31 Dec 2006 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 25254
+
+Serial Range: Block start: IN-5-19174882-1-1-0-332      Block end: IN-5-19200135-1-1-0-332
+____________________________
+Monitoring report: 01 Jan 2007 - 31 May 2008
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 53887
+
+Serial Range: Block start: IN-5-65047213-1-1-0-332      Block end: IN-5-65101099-1-1-0-332
+_________________________________
+Monitoring report: 01 Jun 2008 - 30 Jun 2009 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 8462
+
+Serial Range: Block start: IN-5-80570259-1-1-0-332      Block end: IN-5-80578720-1-1-0-332
+______________________
+Monitoring report: 01 Jul 2009 - 31 Oct 2010 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 11983
+
+Serial Range: Block start: IN-5-118770946-1-1-0-332      Block end: IN-5-118782928-1-1-0-332
+_____________________
+Monitoring report: 01 Nov 2010 - 31 Mar 2012 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 42780
+
+Serial Range: Block start: IN-5-170253704-1-1-0-332      Block end: IN-5-170296483-1-1-0-332
+__________________
+Monitoring report: 01 Apr 2012 - 31 Mar 2013 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 15992
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 13914
+
+Serial Range: Block start: IN-5-195216400-1-1-0-332      Block end: IN-5-195232391-1-1-0-332
+
+Serial Range: Block start: IN-5-195232392-2-2-0-332      Block end: IN-5-195246305-2-2-0-332
+_________________________
+Monitoring report: 01 Apr 2013 - 31 Mar 2014 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 21547
+
+Serial Range: Block start: IN-5-211080799-2-2-0-332      Block end: IN-5-211102345-2-2-0-332
+_____________________
+Monitoring report: 01 Apr 2014 - 30 Sep 2015 
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 19768
+
+Serial Range: Block start: IN-5-220041145-2-2-0-332      Block end: IN-5-220060912-2-2-0-332
+_______________________
+
+
